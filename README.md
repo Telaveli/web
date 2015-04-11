@@ -3,6 +3,6 @@
 
 მისი ქლონირება შესაძლებელია 
 
-git remote clone https://github.com/Telaveli/web.git
+    git  clone https://github.com/Telaveli/web.git
 
 ბრძანებით
